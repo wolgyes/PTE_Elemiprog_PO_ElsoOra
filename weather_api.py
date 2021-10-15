@@ -1,5 +1,5 @@
 import requests
-APPID = "ed90f55a39c99f5d99b24736fb3700dc"
+APPID = ""
 
 def legmelegebb_hidegebb_varos(tempv):
     tmp = tempv
